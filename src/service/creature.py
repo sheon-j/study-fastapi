@@ -1,4 +1,4 @@
-import fake.creature as data
+import data.creature as data
 from model.creature import Creature
 
 
